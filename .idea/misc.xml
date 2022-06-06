@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable-v24/customborder.xml" value="0.156" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable-v24/ic_baseline_account_circle_80_white.xml" value="0.156" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable-v24/ic_baseline_chevron_right_24.xml" value="0.156" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable-v24/ic_baseline_edit_24_orange.xml" value="0.156" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable-v24/ic_baseline_favorite_24_orange.xml" value="0.156" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable-v24/ic_baseline_group_24_orange.xml" value="0.156" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable-v24/ic_baseline_help_outline_24_orange.xml" value="0.156" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable-v24/ic_baseline_history_24_orange.xml" value="0.156" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable-v24/ic_baseline_home_24_orange.xml" value="0.156" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable-v24/ic_baseline_lock_24_orange.xml" value="0.156" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable-v24/ic_baseline_notifications_24_orange.xml" value="0.156" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable-v24/ic_baseline_share_24_orange.xml" value="0.156" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable-v24/ic_baseline_shopping_cart_24_orange.xml" value="0.156" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.102" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable/bg_btn_beli.xml" value="0.161" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable/bg_btn_google.xml" value="0.1935" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable/bg_bulet.xml" value="0.161" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable/bg_penambahan.xml" value="0.161" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable/ic_baseline_credit_card_24.xml" value="0.1935" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable/ic_baseline_key_24.xml" value="0.1935" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1935" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.1935" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable/ic_chat_24.xml" value="0.154" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.102" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/activity_baru.xml" value="0.32608695652173914" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/activity_buttom.xml" value="0.3079710144927536" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/activity_detail_produk.xml" value="0.264" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/activity_detail_pulsa.xml" value="0.2" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/activity_main.xml" value="0.3079710144927536" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/activity_masuk.xml" value="0.18541666666666667" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/activity_register.xml" value="0.18541666666666667" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/fragment_akun.xml" value="0.264" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/fragment_keranjang.xml" value="0.264" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/item_keranjang.xml" value="0.4" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/item_produk.xml" value="0.264" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/item_pulsa.xml" value="0.1762917933130699" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/item_slider.xml" value="0.16077898550724637" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/toolbar.xml" value="0.14944275582573455" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/layout/toolbar_custom.xml" value="0.2905263157894737" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3625" />
+        <entry key="..\:/Kuliah/Semester 4/PAM/Week 15/app/src/main/res/xml/config_network.xml" value="0.16077898550724637" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

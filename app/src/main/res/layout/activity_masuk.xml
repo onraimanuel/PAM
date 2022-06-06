@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.BaruActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:textColor="@color/teal_700"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Selamat datang di"
+            android:textSize="18dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Koperasi Institut Teknologi Del"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/teal_700"
+            />
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:src="@drawable/logodel"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_prosesLogin"
+            android:background="@color/teal_200"
+            android:textColor="@color/white"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:text="Masuk"
+            android:layout_marginBottom="20dp"
+            />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_register"
+            android:background="@color/teal_202"
+            android:textColor="@color/teal_700"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:text="Daftar"
+            android:layout_marginBottom="20dp"
+            />
+
+    </LinearLayout>
+</RelativeLayout>
